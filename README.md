@@ -24,11 +24,22 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
+Step 1:
 Importing the libraries
+
+Step 2:
 Importing the dataset
+
+Step 3:
 Taking care of missing data
+
+Step 4:
 Encoding categorical data
+
+Step 5:
 Normalizing the data
+
+Step 6:
 Splitting the data into test and train
 
 ## PROGRAM:

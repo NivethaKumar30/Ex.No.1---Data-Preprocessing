@@ -98,7 +98,7 @@ print(len(x_test))
 ```
 
 ## OUTPUT:
-![Screenshot 2023-08-26 144309](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/ad95f7d5-a455-43e5-bf5f-71df99f4a78b)
+
 
 ![Screenshot 2023-08-28 161300](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/ca3bc8b9-b302-4989-8e2c-8e76de86379a)
 

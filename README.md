@@ -1,4 +1,4 @@
-![Screenshot 2023-08-28 161445](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/5125d305-88ef-44b0-b8a9-b8bce78c8040)# Ex.No.1---Data-Preprocessing
+
 ## AIM:
 
 To perform Data preprocessing in a data set downloaded from Kaggle

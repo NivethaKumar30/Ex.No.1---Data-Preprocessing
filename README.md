@@ -1,4 +1,4 @@
-# Ex.No.1---Data-Preprocessing
+![Screenshot 2023-08-28 161445](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/5125d305-88ef-44b0-b8a9-b8bce78c8040)# Ex.No.1---Data-Preprocessing
 ## AIM:
 
 To perform Data preprocessing in a data set downloaded from Kaggle
@@ -98,7 +98,27 @@ print(len(x_test))
 ```
 
 ## OUTPUT:
-/ Show the result/
+![Screenshot 2023-08-26 144309](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/ad95f7d5-a455-43e5-bf5f-71df99f4a78b)
+
+![Screenshot 2023-08-28 161300](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/ca3bc8b9-b302-4989-8e2c-8e76de86379a)
+
+![Screenshot 2023-08-28 161345](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/1f00d9a4-8177-49c1-8cee-218619c84858)
+
+![Screenshot 2023-08-28 161416](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/1f8bc898-cce2-4bcf-a28c-fb8b3fbb9d71)
+
+![Screenshot 2023-08-28 161428](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/34c70802-a329-497d-8052-19a57aa49338)
+
+![Screenshot 2023-08-28 161445](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/9746b823-db48-40e9-a5a5-b0d340716443)
+
+![Screenshot 2023-08-28 161528](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/9ecc469c-1469-4f9a-a219-06e53cc535ae)
+
+![Screenshot 2023-08-28 161528](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/b8c93fdd-f11f-4508-a958-187290835b24)
+
+![Screenshot 2023-08-28 161535](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/7c7524dc-c6a7-4e40-b223-97d15769875e)
+
+![Screenshot 2023-08-28 161547](https://github.com/NivethaKumar30/Ex.No.1---Data-Preprocessing/assets/119559844/0e22c5e0-39ec-4e46-ba09-85d402957dde)
+
+
 
 ## RESULT
 /Type your result here/

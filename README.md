@@ -32,7 +32,70 @@ Normalizing the data
 Splitting the data into test and train
 
 ## PROGRAM:
-/Write your code here/
+```
+import pandas as pd
+import io
+from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.model_selection import train_test_split
+#read the dataset
+df=pd.read_csv('data.csv')
+df
+import pandas as pd
+df=pd.read_csv("/content/data.csv")
+df.head()
+
+df.duplicated()
+
+df.describe()
+
+df.isnull().sum()
+
+x=df.iloc[:, :-1].values
+print(x)
+
+y=df.iloc[:, -1].values
+print(y)
+
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler()
+df1 = pd.DataFrame(scaler.fit_transform(df))
+print(df1)
+
+from sklearn.model_selection import train_test_split
+xtrain,ytrain,xtest,ytest=train_test_split(x,y,test_size=0.2,random_state=2)
+print(xtrain)
+print(len(xtrain))
+print(xtest)
+print(len(xtest))
+
+from sklearn.preprocessing import StandardScaler
+sc = StandardScaler()
+df1 = sc.fit_transform(df)
+print(df1)
+x=df.iloc[:, :-1].values
+x
+y=df.iloc[:, -1].values
+y
+print(df.isnull().sum)
+df.fillna(df.mean().round(1), inplace=True)
+print(df.isnull().sum())
+y=df.iloc[:, -1].values
+print(y)
+df.duplicated()
+print(df['Calories'].describe())
+from sklearn.preprocessing import MinMaxScaler
+Scaler = MinMaxScaler()
+df1=pd.DataFrame(Scaler.fit_transform(df))
+df1
+from sklearn.model_selection import train_test_split
+x_train, x_test ,y_train, y_test = train_test_split(x, y, test_size= 0.2)
+print(x_train)
+print(len(x_train))
+print(x_test)
+print(len(x_test))
+
+```
 
 ## OUTPUT:
 / Show the result/
